@@ -1,0 +1,21 @@
+        h1{
+            color:blue;
+            height:20px;
+            text-align:center;
+        }
+        .sign_in
+        {
+          padding:5px;
+          margin:5px;
+          }
+        .sign_up
+        {
+          display:block;
+          padding:5px;
+          margin:5px;
+        }
+        input{
+         display:block;    
+        }
+        
+
